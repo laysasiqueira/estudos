@@ -20,6 +20,6 @@ func main() {
 	fmt.Printf("type: %T -value: %v\n", 1, 1)
 
 	// float (decimal)
-	fmt.Printf("type: %T -value: %v\n", 1.233, 1.233)
+	fmt.Printf("type: %T -value: %v\n", 1.244, 1.244)
 
 }
