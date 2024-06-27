@@ -17,3 +17,6 @@ func soma(x int, y int) int {
 func subtracao(x int, y int) int {
 	return x - y
 }
+
+//quando a função começa com letra minuscula ela é privada
+//quando a função começa com letra maiuscula ela é publica
