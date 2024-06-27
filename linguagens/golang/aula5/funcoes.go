@@ -20,3 +20,4 @@ func subtracao(x int, y int) int {
 
 //quando a função começa com letra minuscula ela é privada
 //quando a função começa com letra maiuscula ela é publica
+//para utilizar em putros pacote:mainNomeFuncao(nome)
